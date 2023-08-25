@@ -1,0 +1,5 @@
+Djn3D0bwaUDplOQt
+
+
+mongodb+srv://djakhar:2P5IXUhdk3HUk7Wg@cluster0.9hpzwx7.mongodb.net/StudyNotion
+2P5IXUhdk3HUk7Wg
